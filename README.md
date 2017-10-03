@@ -1,10 +1,9 @@
 Oersetter Models
 =================
 
- Maarten van Gompel
- Centre for Language and Speech Technology
- Radboud University Nijmegen
- Licensed under [OPEN LICENCE TO BE DETERMINED BY FRYSKE AKADEMY]
+Maarten van Gompel / Centre for Language and Speech Technology / Radboud University Nijmegen
+
+Licensed under [OPEN LICENCE TO BE DETERMINED BY FRYSKE AKADEMY]
 
 This repository contains models for Oersetter, the Frisian-Dutch Machine
 Translation system developed by Radboud University Nijmegen in close
